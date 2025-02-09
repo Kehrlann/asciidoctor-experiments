@@ -1,1 +1,6 @@
+# Editors
+.idea/
+.fleet/
+
+# Output
 *.html
